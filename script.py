@@ -41,12 +41,12 @@ HelpTxT = """
 """
 
 
-AboutTxT= """⭕️<b> Welcome To @PRO_FILTER_ROBOT</b>
+AboutTxT= """<b> Welcome To @PRO_FILTER_ROBOT</b>
 
-⭕️<b>♿DEVELOPER🚼 :</b> <a href='https://t.me/StupidBoi/'>This Person</a>     
+<b>♿DEVELOPER🚼 :</b> <a href='https://t.me/StupidBoi/'>This Person</a>     
 
-⭕️<b>♿LANGUAGE🚼 :</b> <a href='https://www.python.org/'>Python 3.11.5</a> 
+<b>♿LANGUAGE🚼 :</b> <a href='https://www.python.org/'>Python 3.10</a> 
 
-⭕️<b>♿LIBRARY🚼 :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.4.16</a> 
+<b>♿LIBRARY🚼 :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 
 """
