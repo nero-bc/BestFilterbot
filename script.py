@@ -1,46 +1,52 @@
 StartTxT = """
-Hello {mention}
+<b>🛐 जय श्री राम🚩 {mention},
 
-I'm an advanced filter bot with many capabilities!
+♿I'm An Advanced Filter Bot With Many Capabilities !
+🚼There Is No Practical Limits For My Filtering Capacity. O⁠_⁠o
 
-There is no practical limits for my filtering capacity :)
-
-See help button for commands and more details
+♿Hit /help to find out more about how to use me to my full potential.<b>
 """
+
 
 HelpTxT = """
-Add me as admin in your group and start filtering :)
+<i>**🚼Add Me As Admin In Your Group And Start Filtering**</i>
 
-<b>Basic Commands;</b>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+<b>♿ BASIC COMMANDS 🚼</b>
 
-<b>Filter Commands;</b>
+-/start: Check If I'm Alive!
+-/help: Command Help
+-/about: Something About Me!
 
-<code>/add name reply</code>  -  Add filter for name
-<code>/del name</code>  -  Delete filter
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-<code>/viewfilters</code>  -  List all filters in chat
+<b>♿ FILTER COMMANDS 🚼</b>
 
-<b>Connection Commands;</b>
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-<code>/connections</code>  -  Manage your connections.
+-/add: Add Filter For Name.
+-/del: Delete Filter.
+-/delall: Delete Entire Filters (Group Owner Only!).
+-/viewfilters: List All Filters In Chat.
 
-<b>Extras;</b>
-/status  -  Shows current status of your bot (Auth User Only)
-/id  -  Shows ID information
-/info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
+<b>♿ CONNECTION COMMANDS 🚼</b>
 
-© @learningbots79
+-/connect: Connect Your Group. (Go To Your Group, Then Use Command /id).
+-/connections: Manage Your Connections.
+
+<b>♿ EXTRAS 🚼</b>
+
+- /status: Shows Current Status Of Your Bot (Auth User Only).
+- /id: Get A User's ID.
+- /info: Get A User's Info.
+
+**♻️ DEPELOVER**
+<b>@StupidBoi69<b>
 """
 
-AboutTxT = """
-⭕️ Official Channel : @learningbots79</b>
-⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @Mo_Tech_YT
-⭕️ Language : Python3
-⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
+
+AboutTxT= """⭕️<b> Welcome To @PRO_FILTER_ROBOT</b>
+
+⭕️<b>♿DEVELOPER🚼 :</b> <a href='https://t.me/StupidBoi/'>This Person</a>     
+
+⭕️<b>♿LANGUAGE🚼 :</b> <a href='https://www.python.org/'>Python 3.11.5</a> 
+
+⭕️<b>♿LIBRARY🚼 :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.4.16</a> 
+
 """
