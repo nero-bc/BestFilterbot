@@ -12,41 +12,38 @@ HelpTxT = """
 <i>**🚼Add Me As Admin In Your Group And Start Filtering**</i>
 
 
-<b>♿ BASIC COMMANDS 🚼</b>
+<b>♿BASIC COMMANDS🚼</b>
 
 -/start: Check If I'm Alive!
 -/help: Command Help
 -/about: Something About Me!
 
-<b>♿ FILTER COMMANDS 🚼</b>
+<b>♿Filter Commands🚼</b>
 
 -/add: Add Filter For Name.
 -/del: Delete Filter.
 -/delall: Delete Entire Filters (Group Owner Only!).
 -/viewfilters: List All Filters In Chat.
 
-<b>♿ CONNECTION COMMANDS 🚼</b>
+<b>♿Connection Commands🚼</b>
 
 -/connect: Connect Your Group. (Go To Your Group, Then Use Command /id).
 -/connections: Manage Your Connections.
 
-<b>♿ EXTRAS 🚼</b>
+<b>♿EXTRAS🚼</b>
 
 - /status: Shows Current Status Of Your Bot (Auth User Only).
 - /id: Get A User's ID.
 - /info: Get A User's Info.
 
-**♻️ DEPELOVER**
+**♻️DEPELOVER**
 <b>@StupidBoi69<b>
 """
 
 
-AboutTxT= """<b> Welcome To @PRO_FILTER_ROBOT</b>
-
-<b>♿DEVELOPER🚼 :</b> <a href='https://t.me/StupidBoi/'>This Person</a>     
-
-<b>♿LANGUAGE🚼 :</b> <a href='https://www.python.org/'>Python 3.10</a> 
-
-<b>♿LIBRARY🚼 :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
-
+AboutTxT= """
+<b> Welcome To @PRO_FILTER_ROBOT</b>
+<b>♿DEVELOPER🚼 :</b> <a href='https://t.me/StupidBoi/'>This Person</a>
+<b>♿LANGUAGE🚼 :</b> <a href='https://www.python.org/'>Python</a>
+<b>♿LIBRARY🚼 :</b> <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 """
